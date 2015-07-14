@@ -178,7 +178,7 @@ class PlayFair:
         the same row, col, or a square
 
         @param   list -- digraph
-        @returns list -- dencoded digraph
+        @returns list -- decoded digraph
         """
 
         newDigraph = ['','']
