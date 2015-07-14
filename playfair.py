@@ -33,6 +33,7 @@ class StringManip:
         - reSpaces      - replace spaces with some char or '' for removing spaces
         - reNonAlphaNum - remove non alpha numeric
         - reDupes       - remove duplicate letters
+        -renum          - remove numbers
 
         @param   string -- the message
         @returns string -- cleaned message
