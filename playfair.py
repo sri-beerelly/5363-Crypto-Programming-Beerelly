@@ -83,7 +83,7 @@ class PlayFair:
         self.generateSquare()
         self.transposeSquare()
 
-        self.Message = self.StrMan.cleanString(self.Message,{'up':1,'reSpaces':'','reNonAlphaNum':1,'spLetters':1})
+        self.Message = self.StrMan.cleanString(self.Message,{'up':1,'reSpaces':'','reNonAlphaNum':1,'spLetters':1,'renum':1})
         if len(self.Message) % 2 != 0:
             self.Message +='X'
 
