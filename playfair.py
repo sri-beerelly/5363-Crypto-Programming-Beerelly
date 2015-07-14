@@ -246,7 +246,7 @@ class PlayFair:
 ###########################################################################
 
 if __name__ == "__main__":
-    # Asking user to enter select options
+    # Asking user to select options
     print('playfair Encryption Tool (P.ET)')
     print('Written By: (srikanth Reddy Beerelly)')
     print('**************************************************')
