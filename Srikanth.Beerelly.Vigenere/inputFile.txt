@@ -1,0 +1,1 @@
+Learning python and working on it. @@^^># CRYPTOGRAPHY!! The randomized version contains randomly generated alphabets for each of the 26 individual ciphers.
