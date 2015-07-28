@@ -133,7 +133,7 @@ def encrypt(m,s):
 
 # decrypt :
 # Function to decrypt a message using the same key and same randomized vigenere
-# @param em - decrypted message
+# @param em - encrypted message
 # @param s - secret integer to generate a randomized vigenere and a keyword for decryption
 # @returns string - decrypted message
 
