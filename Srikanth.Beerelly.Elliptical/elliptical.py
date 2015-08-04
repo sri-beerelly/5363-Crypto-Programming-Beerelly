@@ -33,7 +33,7 @@ def checkPoints(x1,y1,x2,y2,a,b):
 
             x3 = 0
             y3 = 0
-            # Finding x3,ye from formulae
+            # Finding x3,y3 from formulae
             x3 = M**2 - x1 - x2
             y3 = M*(x3-x1) + y1
             
